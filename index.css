@@ -1,0 +1,28 @@
+.nav{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    width: 33%;
+}
+.class_logo{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+.home_image {
+    position: absolute;
+    top: 20%;
+    right: 10%;
+    height: 60%;
+    width: 40%;
+    }
+
+.gyhu {
+    position: absolute;
+    top: 120% ;
+    right: 35%;
+}
+
+.nav-items{
+    padding-right: 7%;
+}        
